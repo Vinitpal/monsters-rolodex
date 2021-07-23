@@ -1,8 +1,8 @@
 {
+  "hompage": "https://Vinitpal.github.io/monsters-rolodex",
   "name": "02-react-basics",
   "version": "0.1.0",
   "private": true,
-  "hompage": "https://Vinitpal.github.io/monsters-rolodex",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
